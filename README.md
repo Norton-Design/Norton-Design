@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hey!
+
+I'm Michael Norton, a developer interested in the finer things in life:
+- Building bikes :gear:
+- Climbing walls :climbing:
+- Throwing Nat20s :dagger:
+
+### Reach out and let's build something together! 
+
 
 <!--
 **Norton-Design/Norton-Design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
