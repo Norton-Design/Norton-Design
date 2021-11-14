@@ -1,9 +1,8 @@
 ### Hey!
 
-I'm Michael Norton, a developer interested in the finer things in life:
-- Building bikes :gear:
-- Climbing walls :climbing:
-- Throwing Nat20s :dagger:
+I'm Michael Norton and I'm a Software Engineer and Technical Career Coach that's contributed to the start of hundreds of engineering careers. I have technical expertise in full stack web development, object-oriented programming, test-driven development, agile methodology and strong skills in the following technologies: 
+
+React, Redux, JavaScript (ES6), Node, Express, Python, Flask, Ruby on Rails, AWS, Postgres, SQL, Git, Sass, Jest, Mocha, RSpec, CSS3, HTML5, along with proficiencies in Data Structures and Algorithms.
 
 ### Reach out and let's build something together! 
 
